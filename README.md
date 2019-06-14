@@ -1,4 +1,4 @@
-# vue-frontend
+# vue-crud-example
 
 ## Project setup
 ```
